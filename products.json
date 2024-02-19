@@ -1,0 +1,35 @@
+[
+    {
+        "ptype": "cars",
+        "pname": "bmw",
+        "pdescription": "ccc",
+        "pprice": 1000,
+        "psold": 1,
+        "pstock": 10,
+        "available": "No",
+        "id": 1705746283,
+        "quantity": 1
+    },
+    {
+        "ptype": "aa",
+        "pname": "bmw",
+        "pdescription": "ccc",
+        "pprice": 300,
+        "psold": 99,
+        "pstock": 8,
+        "available": "No",
+        "id": 1705746300,
+        "quantity": 1
+    },
+    {
+        "ptype": "phone",
+        "pname": "bb",
+        "pdescription": "cc",
+        "pprice": 60,
+        "psold": 35,
+        "pstock": 35,
+        "available": "Yes",
+        "id": 1705746314,
+        "quantity": 1
+    }
+]
